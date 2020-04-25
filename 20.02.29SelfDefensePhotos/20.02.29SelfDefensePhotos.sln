@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelfDefenseB", "SelfDefenseB\SelfDefenseB.csproj", "{CEBEBE8B-A56E-4407-890E-5A723D4FEFE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CEBEBE8B-A56E-4407-890E-5A723D4FEFE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEBEBE8B-A56E-4407-890E-5A723D4FEFE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEBEBE8B-A56E-4407-890E-5A723D4FEFE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEBEBE8B-A56E-4407-890E-5A723D4FEFE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9602440-5DCD-4807-BA1A-EF5173493086}
+	EndGlobalSection
+EndGlobal
